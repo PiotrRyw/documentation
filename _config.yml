@@ -1,0 +1,13 @@
+name: PR
+title: null
+theme: minima
+titles_from_heading:
+  enabled: true
+  strp_title: true
+  collections: true
+header_pages:
+  - brainhack_doc.md
+  - Logistics.md
+  - Mailing.md
+  - Projects.md
+  - Institutions.md
